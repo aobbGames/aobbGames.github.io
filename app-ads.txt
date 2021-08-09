@@ -1,12 +1,19 @@
-improvedig ital.com, 1366, RESELLER
-algorix.co, 60082, Reseller, 5b394c12fea27a1d
-algorix.co, 60085, Reseller, 5b394c12fea27a1d
-algorix.co, 60086, Reseller, 5b394c12fea27a1d
-algorix.co, 60087, Reseller, 5b394c12fea27a1d
-algorix.co, 60093, Reseller, 5b394c12fea27a1d
-inmobi.com, 3a4f7da341dd490cbb7dde02b126275e, RESELLER, 83e75a7ae333ca9d
-pubmatic.com, 160145, RESELLER, 5d62403b186f2ace
-rhythmone.com, 3948367200, RESELLER, a670c89d4a324e47
+google.com, pub-5333220833779174, DIRECT, f08c47fec0942fa0
+
+tapjoy.com, d8f3edf3dea74a598e193862a511073b, DIRECT, 29e595b1aeb5904d
+rubiconproject.com, 12286, RESELLER, 0bfd66d529a55807
+webeyemob.com, 70096, RESELLER
+openx.com, 540679900, RESELLER, 6a698e2ec38604c6
+adcolony.com, 801e49d1be83b5f9, RESELLER, 1ad675c9de6b5176
+pubmatic.com, 158060, RESELLER, 5d62403b186f2ace
+video.unrulymedia.com, 123476257, RESELLER
+indexexchange.com, 182257, RESELLER
+appnexus.com, 6849, RESELLER
+rubiconproject.com, 15268, RESELLER
+rhythmone.com, 123476257, RESELLER, a670c89d4a324e47
+pubmatic.com, 160565, RESELLER, 5d62403b186f2ace
+pubmatic.com, 160565, DIRECT, 5d62403b186f2ace
+pangleglobal.com, 9898, DIRECT
 google.com, pub-5784311004955543, DIRECT, f08c47fec0942fa0
 google.com, pub-7188592076082444, DIRECT, f08c47fec0942fa0
 ironsrc.com,130210,DIRECT,79929e88b2ba73bc
@@ -66,9 +73,6 @@ xad.com, 241, RESELLER, 81cbf0a75a5e0e9a
 yieldlab.net, 2172218, RESELLER
 facebook.com, 955473571155965, RESELLER, c3e20eee3f780d68
 unity.com, 18348, DIRECT, 96cabb5fbdde37a7
-adcolony.com, 801e49d1be83b5f9, RESELLER, 1ad675c9de6b5176
-pubmatic.com, 158060, RESELLER, 5d62403b186f2ace
-openx.com, 540679900, RESELLER, 6a698e2ec38604c6
 webeyemob.com, 70097, RESELLER
 appads.in, 106246, RESELLER
 indexexchange.com, 194080, RESELLER, 50b1c356f2c5c8fc
@@ -186,7 +190,8 @@ google.com, pub-5962817240974945, RESELLER
 google.com, pub-9086075135303851, RESELLER
 telaria.com, rwd19-18348, RESELLER, 1a4e959a1b50034a
 tremorhub.com, rwd19-18348, RESELLER, 1a4e959a1b50034a
-target.my.com, 8337484, DIRECTadmixer.com, 8337484, RESELLER
+target.my.com, 8337484, DIRECT
+admixer.com, 8337484, RESELLER
 pubnative.net, 8337484, RESELLER
 adcolony.com, 1efc6603710003ea, RESELLER
 admixer.net, 2878f07c-cc3f-4f8a-a26c-8e6033a539a6, RESELLER
@@ -329,8 +334,6 @@ spotx.tv, 99441, RESELLER, 7842df1d2fe2db34
 spotxchange.com, 99441, RESELLER, 7842df1d2fe2db34
 ucfunnel.com, par-8A2A4A443B29BB92F9622D3A67346AB, RESELLER
 webeyemob.com, 70090, RESELLER
-tapjoy.com, d8f3edf3dea74a598e193862a511073b, DIRECT, 29e595b1aeb5904d
-rubiconproject.com, 12286, RESELLER, 0bfd66d529a55807
 pubmatic.com, 159817, DIRECT, 5d62403b186f2ace
 applovin.com, cd4fc1eaeab59cc96879eb552b31534d, DIRECT
 adcolony.com, 5d8cbf6671c93a42, RESELLER, 1ad675c9de6b5176
@@ -373,5 +376,12 @@ startapp.com, inr, RESELLER
 ucfunnel.com, par-BE7E29B3B48DE66BC7DDDA24E6267E29, RESELLER
 verve.com, 15290, RESELLER, 0c8f5958fc2d6270
 video.unrulymedia.com, 2169000724, RESELLER
-target.my.com, 8337484, DIRECT
-admixer.com, 8337484, RESELLER
+improvedig ital.com, 1366, RESELLER
+algorix.co, 60082, Reseller, 5b394c12fea27a1d
+algorix.co, 60085, Reseller, 5b394c12fea27a1d
+algorix.co, 60086, Reseller, 5b394c12fea27a1d
+algorix.co, 60087, Reseller, 5b394c12fea27a1d
+algorix.co, 60093, Reseller, 5b394c12fea27a1d
+inmobi.com, 3a4f7da341dd490cbb7dde02b126275e, RESELLER, 83e75a7ae333ca9d
+pubmatic.com, 160145, RESELLER, 5d62403b186f2ace
+rhythmone.com, 3948367200, RESELLER, a670c89d4a324e47
